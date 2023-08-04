@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "w72tlayVc+oFUzBwhDA4Y30GAoUFN7Rdjd2tKk2OUbx4jcGX0gwx5ZGK+RKC/xuuZyHQG4Ub3dRTK4HihnZZIQ==",
+  "success": true,
+  "projectFilePath": "/home/justin/progProjects/C#/youtube/blogtutorial/aspnet-blog-application/aspnet-blog-application.csproj",
+  "expectedPackageFiles": [
+    "/home/justin/.nuget/packages/microsoft.data.sqlite/7.0.3/microsoft.data.sqlite.7.0.3.nupkg.sha512",
+    "/home/justin/.nuget/packages/microsoft.data.sqlite.core/7.0.3/microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
+    "/home/justin/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/justin/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "/home/justin/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/justin/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/justin/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

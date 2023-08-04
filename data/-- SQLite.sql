@@ -1,0 +1,3 @@
+-- SQLite
+
+CREATE TABLE  post (Id INTEGER PRIMARY KEY AUTOINCREMENT, Title TEXT, Body TEXT, CreatedAt TEXT, UpdatedAt TEXT)
